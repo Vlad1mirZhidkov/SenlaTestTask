@@ -6,11 +6,11 @@
 ## Установка
 1. Клонируйте репозиторий:
     ```sh
-    git clone <URL вашего репозитория>
+    git clone https://github.com/Vlad1mirZhidkov/SenlaTestTask
     ```
 2. Перейдите в директорию проекта:
     ```sh
-    cd <имя директории проекта>
+    cd SenlaTestTask
     ```
 3. Соберите проект с помощью вашей IDE (например, IntelliJ IDEA) или с помощью командной строки:
     ```sh
