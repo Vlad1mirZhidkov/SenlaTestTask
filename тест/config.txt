@@ -1,0 +1,4 @@
+temperature=15
+humidity=71
+water=22
+food=0
