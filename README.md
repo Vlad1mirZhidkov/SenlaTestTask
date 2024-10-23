@@ -19,12 +19,14 @@
 
 ## Использование скрипта для запуска:
 Linux:
+
     ```sh
     chmod +x run.sh
     ./run.sh
     ```
     
 Windows:
+
     ```sh
     run.bat
     ```
